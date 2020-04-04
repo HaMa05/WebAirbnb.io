@@ -40,14 +40,12 @@
 .header .container-header .overlay .menu-head .logo-brand {
 	display: flex;
 	align-items: center;
-
 	height: 100px;
 }
 
 .header .container-header .overlay .menu-head .logo-brand .logo{
 	display: flex;
 	text-decoration: none;
-	justify-content: space-between;
 }
 
 .header .container-header .overlay .menu-head .logo-brand .logo i{

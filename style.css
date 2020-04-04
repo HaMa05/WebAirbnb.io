@@ -61,6 +61,7 @@
 }
 
 .header .container-header .overlay .menu-head .menu{
+	margin-right: 40px;
 	display: flex;
 	list-style: none;
 	font-size: 15px;

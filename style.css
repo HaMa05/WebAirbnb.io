@@ -3,6 +3,7 @@
 	margin: 0;
 	box-sizing: border-box;
 	font-family: Arial, sans-serif;
+
 }
 
 
@@ -383,7 +384,7 @@ hr{
 
 	/*follow*/
 .footer .follow{
-	width: 20%;
+	/*width: 20%;*/
 	display: flex;
 	justify-content: space-between;
 }
@@ -421,3 +422,10 @@ hr{
 	color: #222;
 }
 		/*follow right-end*/
+
+@media(min-height: 1920px){
+	.footer .follow .right a{
+		color: red;
+	}
+}
+

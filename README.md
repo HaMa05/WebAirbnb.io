@@ -1,7 +1,7 @@
-## Recode web interface for [Airbnb](https://www.airbnb.com/)
+### Recode web interface for [Airbnb](https://www.airbnb.com/)
 
 ### Introduction
-* This is a project when the end CSS Master course of CodersX.
+* A project when the end CSS Master course of [CodersX](https://school.coders-x.com/)
 * My project: https://airbnb-69302.web.app/
 
 ### Tech
@@ -14,3 +14,6 @@ The first, start git in your desktop.
 git clone https://github.com/HaMa05/WebAirbnb.io.git
 ```
 Or https://confluence.atlassian.com/bitbucket/clone-a-repository-223217891.html
+
+### License
+MIT
